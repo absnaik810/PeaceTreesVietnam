@@ -1,0 +1,19 @@
+{
+  "name": "peacetreesvietnam",
+  "version": "1.0.0",
+  "description": "Peace Trees Vietnam project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/absnaik810/PeaceTreesVietnam.git"
+  },
+  "author": "Abhishek Naik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/absnaik810/PeaceTreesVietnam/issues"
+  },
+  "homepage": "https://github.com/absnaik810/PeaceTreesVietnam#readme"
+}
